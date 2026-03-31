@@ -2,4 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="btn_start">#7C40FF</color>
+    <color name="btn_restart">#F8F8A4</color>
+    <color name="btn_pause">#F9988A</color>
 </resources>
